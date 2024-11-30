@@ -1,0 +1,22 @@
+[
+    {"id": 1,"name": "Bold Pilot", "condition": 95, "color": "#0000ff" },
+    {"id": 2,"name": "Fener Alayı", "condition": 93, "color": "#00ff00" },
+    {"id": 3,"name": "Redemptions", "condition": 67, "color": "#ff0000" },
+    {"id": 4,"name": "McQueen", "condition": 74, "color": "#d9ed92" },
+    {"id": 5,"name": "Joker", "condition": 81, "color": "#fca311" },
+    {"id": 6,"name": "Bad Joke", "condition": 53, "color": "#006d77" },
+    {"id": 7,"name": "Yıldırım", "condition": 46, "color": "#1d3557" },
+    {"id": 8,"name": "Aboubakar", "condition": 90, "color": "#ff006e" },
+    {"id": 9,"name": "Beyaz Saray", "condition": 71, "color": "#78290f" },
+    {"id": 10,"name": "Akıncı Bey", "condition": 65, "color": "#000814" },
+    {"id": 11,"name": "Siyah İnci", "condition": 63, "color": "#7b2cbf" },
+    {"id": 12,"name": "Kaptan Feyzo", "condition": 61, "color": "#e0aaff" },
+    {"id": 13,"name": "Archipelagos", "condition": 59, "color": "#ffff3f" },
+    {"id": 14,"name": "Müteşekkir", "condition": 84, "color": "#d1bea8" },
+    {"id": 15,"name": "Aslan Bey", "condition": 82, "color": "#ff7b00" },
+    {"id": 16,"name": "Kill Bill", "condition": 64, "color": "#fb6f92" },
+    {"id": 17,"name": "Dead Pool", "condition": 51, "color": "#2d6a4f" },
+    {"id": 18,"name": "Champagne", "condition": 57, "color": "#d9d9d9" },
+    {"id": 19,"name": "Liverpool", "condition": 35, "color": "#eddea4" },
+    {"id": 20,"name": "Montreal", "condition": 77, "color": "#f7a072" }
+]
